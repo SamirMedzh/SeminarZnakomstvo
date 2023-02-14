@@ -19,4 +19,7 @@ int by = int.Parse(ReadLine()!);
 // С(квадрат) = А(квадрат) + В(квадрат)  -   Теорема Пифагора
 
 double length = Math.Sqrt(Math.Pow((ax - bx),2) + Math.Pow((ay - by),2));
-WriteLine(length);
+
+// WriteLine(length);
+
+ WriteLine($"{length:f2}"); //f2 это округление
