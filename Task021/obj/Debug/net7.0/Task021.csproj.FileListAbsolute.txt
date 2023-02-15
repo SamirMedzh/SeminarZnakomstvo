@@ -1,0 +1,15 @@
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\bin\Debug\net7.0\Task021.exe
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\bin\Debug\net7.0\Task021.deps.json
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\bin\Debug\net7.0\Task021.runtimeconfig.json
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\bin\Debug\net7.0\Task021.dll
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\bin\Debug\net7.0\Task021.pdb
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\obj\Debug\net7.0\Task021.csproj.AssemblyReference.cache
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\obj\Debug\net7.0\Task021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\obj\Debug\net7.0\Task021.AssemblyInfoInputs.cache
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\obj\Debug\net7.0\Task021.AssemblyInfo.cs
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\obj\Debug\net7.0\Task021.csproj.CoreCompileInputs.cache
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\obj\Debug\net7.0\Task021.dll
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\obj\Debug\net7.0\refint\Task021.dll
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\obj\Debug\net7.0\Task021.pdb
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\obj\Debug\net7.0\Task021.genruntimeconfig.cache
+C:\Users\administrator\Desktop\Гит\Знакомство с языками програмирования\семинар 1\Tasks\Lesson1\Task021\obj\Debug\net7.0\ref\Task021.dll
